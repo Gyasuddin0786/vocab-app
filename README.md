@@ -130,8 +130,10 @@ vocab-app/
 - Ready to paste into any application
 - Preserves table structure
 #### Images 
-- ![alt text](image.png)
-- ![alt text](image-1.png)
+- <img width="1885" height="632" alt="image" src="https://github.com/user-attachments/assets/ecc56ffe-6a85-4394-bc93-1f0c80575a84" />
+
+- <img width="1868" height="898" alt="image" src="https://github.com/user-attachments/assets/6d052c91-e93a-4b03-9149-865377c8823e" />
+
 ## 🌐 Browser Support
 
 - Chrome (recommended)
@@ -150,7 +152,8 @@ Contributions are welcome! Feel free to:
 
 This project is open source and available under the MIT License.
 
-## 👨‍💻 Author
+## 👨‍💻 Author 
+- Gyasuddin Ansari
 
 Created with ❤️ for vocabulary learners
 
